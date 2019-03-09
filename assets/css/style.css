@@ -1,0 +1,19 @@
+body {
+    background-image: url('../images/background.jpg');
+}
+.container {
+    width: 80%;
+}
+.heading {
+    text-align: center;
+    margin-bottom: 5%;
+    
+}
+
+.replace {
+    text-align: center;
+    margin-bottom: 2%;
+}
+.questions {
+    background:white;
+}
